@@ -1,3 +1,5 @@
 *Learn HTML
 *Learn CSS
 *Learn Javascript
+*Make Website Portofolio
+*Make Some Project Use Javascipt
